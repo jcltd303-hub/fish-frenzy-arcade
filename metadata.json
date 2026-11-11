@@ -1,6 +1,0 @@
-{
-  "name": "Fish Frenzy",
-  "description": "High-octane minimalist arcade fishing combat with 90s fighting-game aesthetics, punchy impact feedback, and tactical HUD.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
